@@ -4,3 +4,5 @@ def greetings(string):
 
 greetings("Hello World")
 
+def get_A(parameter):
+    return parameter
