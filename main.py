@@ -7,5 +7,5 @@ greetings("Hello World")
 def get_A(parameter):
     return parameter
 
-def get_C(parameter_c):
-    return parameter_c
+def get_D(parameter_d):
+    return parameter_d
