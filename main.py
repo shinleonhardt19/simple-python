@@ -4,7 +4,7 @@ def greetings(string):
 
 greetings("Hello World")
 
-def get_A(parameter):
+def get_A2(parameter):
     return parameter
 
 def get_D(parameter_d):
